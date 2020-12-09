@@ -22,7 +22,7 @@ We designed a boundary equilibrium scheme for our adversarial training, by balan
 ### Channel Attention block
 ![alt text](images/ca.png)
 
-## Experiment Part
+## Experiment Results
 
 ### Comparision
 ![alt text](images/model.png)
@@ -38,5 +38,5 @@ We designed a boundary equilibrium scheme for our adversarial training, by balan
 ![alt text](images/r2.png)
 ![alt text](images/r3.png)
 ### Video demo
-![alt text](sr_video.mp4)
+![alt text](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Self-Attention-GAN/blob/master/sr_video.mp4)
 
