@@ -7,8 +7,37 @@ Project of ENGN8535(Advanced Topics in Mechatronics Systems)
 
 
 
-## Introduction
-Since our code is developed on the official implementation of [*Deep High-Resolution Representation Learning for Human Pose Estimation*](https://arxiv.org/abs/1902.09212). This instruction is highly based and similar to the original [HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch).
+## Method
+
+We proposed a channel attention GAN and verified that our model outperforms state-of-the-art model SRGAN.
+
+### Architecture
+
+![alt text](images/architecture.png)
+### Channel Attention block
+![alt text](images/ca.png)
+
+### Comparision
+![alt text](images/model.png)
+![alt text](images/compare1.png)
+![alt text](images/compare2.png)
+### Ablation study
+![alt text](images/ab1.png)
+![alt text](images/ab2.png)
+### Stablization strategies
+![alt text](images/stable.png)
+### Visualization
+![alt text](images/visualization.png)
+### Results
+![alt text](images/r1.png)
+![alt text](images/r2.png)
+![alt text](images/r3.png)
+### Video demo
+![alt text](images/architecture.png)
+
+
+
+
 
 ## Our contribution
 We proposed a novel self adversarial learning architecture that leveraged the HRNet, increased estimation accuracy when occlusions and implausible poses are presented.
