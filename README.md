@@ -40,4 +40,12 @@ We designed a boundary equilibrium scheme for our adversarial training, by balan
 ### Video demo
 ![alt text](images/ezgif.com-gif-maker.gif)
 
+## Related Paper
+long-range pixel dependencies: J. Kim, J. K. Lee, and K. M. Lee. Deeply-recursive convolutional network for image super-resolution. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+Improved SRGAN: Enhanced Super-Resolution Generative Adversarial Networks
+
+[M. Bojarski et al., ”End to end learning for selfdriving
+cars,” arXiv preprint arXiv:1604.07316, 2016.](https://arxiv.org/abs/1604.07316)  
+[Sentdex's py gtav](https://github.com/Sentdex/pygta5)  
+
 
