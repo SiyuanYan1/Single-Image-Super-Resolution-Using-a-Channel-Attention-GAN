@@ -2,8 +2,8 @@
 
 Project of ENGN8535(Advanced Topics in Mechatronics Systems)
 
-[PROJECT REPORT](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Self-Attention-GAN/blob/master/8501_project_report.pdf)  
-[Presentation slide](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Self-Attention-GAN/blob/master/8501_project_report.pdf)  
+[PROJECT REPORT](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Self-Attention-GAN/blob/master/project_report.pdf)  
+[Presentation slide](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Self-Attention-GAN/blob/master/p8.pdf)  
 
 
 
