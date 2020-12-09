@@ -43,8 +43,6 @@ We designed a boundary equilibrium scheme for our adversarial training, by balan
 ## Mosr Related Papers
 [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.](https://arxiv.org/abs/1609.04802)
 
-[M. Bojarski et al., ”End to end learning for selfdriving
-cars,” arXiv preprint arXiv:1604.07316, 2016.](https://arxiv.org/abs/1604.07316)  
 
 
 
