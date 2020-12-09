@@ -22,6 +22,8 @@ We designed a boundary equilibrium scheme for our adversarial training, by balan
 ### Channel Attention block
 ![alt text](images/ca.png)
 
+## Experiment Part
+
 ### Comparision
 ![alt text](images/model.png)
 ### Ablation study
@@ -29,7 +31,7 @@ We designed a boundary equilibrium scheme for our adversarial training, by balan
 ![alt text](images/ab2.png)
 ### Stablization strategies
 ![alt text](images/stable.png)
-### Visualization
+### Visualization of the attention maps
 ![alt text](images/visualization.png)
 ### Results
 ![alt text](images/r1.png)
