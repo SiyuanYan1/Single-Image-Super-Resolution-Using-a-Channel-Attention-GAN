@@ -1,6 +1,6 @@
 # Single-Image-Super-Resolution-Using-a-Self-Attention-GAN
 
-Project of ENGN8535(Advanced Topics in Mechatronics Systems)
+Project of Advanced Topics in Mechatronics Systems(Deep Learning in Computer Vision)
 
 [PROJECT REPORT](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Self-Attention-GAN/blob/master/project_report.pdf)  
 [Presentation slide](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Self-Attention-GAN/blob/master/p8.pdf)  
