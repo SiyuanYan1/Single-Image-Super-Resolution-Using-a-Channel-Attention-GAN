@@ -7,11 +7,11 @@ Project of Advanced Topics in Mechatronics Systems(Deep Learning in Computer Vis
 
 
 
-## Introduction
+### Introduction
 
 We proposed a channel attention GAN and verified that our model outperforms state-of-the-art model SRGAN.
 
-## Our contribution
+### Our contribution
 We proposed a novel self adversarial learning architecture that leveraged the HRNet, increased estimation accuracy when occlusions and implausible poses are presented.
 
 We designed a boundary equilibrium scheme for our adversarial training, by balancing the learning speed for our discriminator, we proved that our adversarial training strategy is more stable and can avoid mode collapse when using HRNet as the backbone.
