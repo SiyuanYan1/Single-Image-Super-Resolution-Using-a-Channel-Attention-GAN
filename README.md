@@ -38,5 +38,6 @@ We designed a boundary equilibrium scheme for our adversarial training, by balan
 ![alt text](images/r2.png)
 ![alt text](images/r3.png)
 ### Video demo
-![alt text](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Self-Attention-GAN/blob/master/sr_video.mp4)
+![alt text](images/ezgif.com-gif-maker.gif)
+
 
