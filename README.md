@@ -41,15 +41,11 @@ We designed a boundary equilibrium scheme for our adversarial training, by balan
 ![alt text](images/ezgif.com-gif-maker.gif)
 
 ## Most Related Papers
-[Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.](https://arxiv.org/abs/1609.04802)
-
-[Deep Residual Learning for Image Recognition.](https://arxiv.org/abs/1512.03385)
-
-[Squeeze-and-Excitation Networks.](https://arxiv.org/abs/1709.01507)
-
-[Image Super-Resolution Using Very Deep Residual Channel Attention Networks.](https://arxiv.org/abs/1807.02758)
-
-[Self-Attention Generative Adversarial Networks.](https://arxiv.org/abs/1805.08318)
+[Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.](https://arxiv.org/abs/1609.04802)  
+[Deep Residual Learning for Image Recognition.](https://arxiv.org/abs/1512.03385)  
+[Squeeze-and-Excitation Networks.](https://arxiv.org/abs/1709.01507)  
+[Image Super-Resolution Using Very Deep Residual Channel Attention Networks.](https://arxiv.org/abs/1807.02758)  
+[Self-Attention Generative Adversarial Networks.](https://arxiv.org/abs/1805.08318)  
 
 
 
