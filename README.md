@@ -2,7 +2,7 @@
 
 Project of Advanced Topics in Mechatronics Systems(Deep Learning in Computer Vision)
 
-[PROJECT REPORT](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Channel-Attention-GAN/blob/master/8501_project_report.pdf)  
+[PROJECT REPORT](8501_project_report.pdf)  
 [Presentation slide](https://github.com/redlessme/Single-Image-Super-Resolution-Using-a-Channel-Attention-GAN/blob/master/8501.pdf)  
 
 
