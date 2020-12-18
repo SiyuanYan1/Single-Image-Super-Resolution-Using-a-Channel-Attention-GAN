@@ -1,4 +1,4 @@
-# ENGN8536 Project: Single-Image-Super-Resolution-Using-a-Self-Attention-GAN
+# ENGN8536 Project: Single-Image-Super-Resolution-Using-a-Channel-Attention-GAN
 
 Project of Advanced Topics in Mechatronics Systems(Deep Learning in Computer Vision)
 
